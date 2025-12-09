@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Joseph Paoli (but Joe is just fine!)</h1>
+<h1 align="center">Hi 👋, I'm Joseph Paoli (_but Joe is just fine!_)</h1>
 <h3 align="center">I'm a graduate research student at the UF/IFAS Florida Medical Entomology Lab in Vero Beach, Florida</h3>
 
 - 🔭 I’m currently working on **an individual-based model regarding the eastern black-legged tick, _Ixodes scapularis_**
 
-- 🌱 I’m currently learning **Coding and modeling principles in my graduate research, and I'm taking entomology courses in the pursuit of my degree**
+- 🌱 I’m currently learning **coding and modeling principles in my graduate research, and I'm taking entomology courses in the pursuit of my degree**
 
 - 👯 I’m looking to expand my network with **people who conduct tick research or who know a thing or two about GitHub and Python**
 
