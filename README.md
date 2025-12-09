@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, my name is Joseph Paoli, I'm a student at the Florida Medical Entomology Lab in Vero Beach, Florida!
+
+![Banner Image]()
+
+## About me:
+
+I'm a graduate research assistant currently studying medical entomology. I'm modeling the Lyme disease vector _Ixodes scapularis_ and  I'm learning Python to help contribute to the models our lab is developing.
+
+
 
 <!--
 **joepaoli-sabatonfan/joepaoli-sabatonfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
