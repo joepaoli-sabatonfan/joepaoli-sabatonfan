@@ -1,24 +1,19 @@
-# Hi there, my name is Joseph Paoli, I'm a student at the Florida Medical Entomology Lab in Vero Beach, Florida!
+<h1 align="center">Hi 👋, I'm Joseph Paoli (but Joe is just fine!)</h1>
+<h3 align="center">I'm a graduate research student at the UF/IFAS Florida Medical Entomology Lab in Vero Beach, Florida</h3>
 
-![Banner Image]()
+- 🔭 I’m currently working on **an individual-based model regarding the eastern black-legged tick, Ixodes scapularis**
 
-## About me:
+- 🌱 I’m currently learning **Coding and modeling principles in my graduate research, and I'm taking entomology courses in the pursuit of my degree**
 
-I'm a graduate research assistant currently studying medical entomology. I'm modeling the Lyme disease vector _Ixodes scapularis_ and  I'm learning Python to help contribute to the models our lab is developing.
+- 👯 I’m looking to expand my network with **people who conduct tick research or who know a thing or two about GitHub and Python**
 
+- 🤝 I’m looking for help with **general programming literacy -- how GitHub and Python work**
 
+- 💬 Topics I'd like to discuss are **those concerning ixodid ticks, but just about any historical or scientific field is on the table!**
 
-<!--
-**joepaoli-sabatonfan/joepaoli-sabatonfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **paolij@ufl.edu**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
